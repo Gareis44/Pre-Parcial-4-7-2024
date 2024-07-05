@@ -1,0 +1,7 @@
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\obj\Debug\Pre-Parcial 4-7-2024.csproj.AssemblyReference.cache
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\obj\Debug\Pre-Parcial 4-7-2024.csproj.CoreCompileInputs.cache
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\bin\Debug\Pre-Parcial 4-7-2024.exe.config
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\bin\Debug\Pre-Parcial 4-7-2024.exe
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\bin\Debug\Pre-Parcial 4-7-2024.pdb
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\obj\Debug\Pre-Parcial 4-7-2024.exe
+A:\Escritorio\Ucse -Materias-\Programacion 1\Practicas Final\Pre-Parcial 4-7-2024\Pre-Parcial 4-7-2024\obj\Debug\Pre-Parcial 4-7-2024.pdb

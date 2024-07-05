@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|a:\\escritorio\\ucse -materias-\\programacion 1\\practicas final\\pre-parcial 4-7-2024\\pre-parcial 4-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|solutionrelative:pre-parcial 4-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\pre-parcial 4-7-2024\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|solutionrelative:pre-parcial 4-7-2024\\logica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\pre-parcial 4-7-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|solutionrelative:pre-parcial 4-7-2024\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\pre-parcial 4-7-2024\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAE914D-8526-4CD1-8204-15AB3E0E4C5E}|Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024.csproj|solutionrelative:pre-parcial 4-7-2024\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Clientes.cs",
+              "RelativeDocumentMoniker": "Pre-Parcial 4-7-2024\\Clientes.cs",
+              "ToolTip": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Clientes.cs",
+              "RelativeToolTip": "Pre-Parcial 4-7-2024\\Clientes.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAMwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T00:09:24.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Cuentas.cs",
+              "RelativeDocumentMoniker": "Pre-Parcial 4-7-2024\\Cuentas.cs",
+              "ToolTip": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Cuentas.cs",
+              "RelativeToolTip": "Pre-Parcial 4-7-2024\\Cuentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T23:11:52.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logica.cs",
+              "DocumentMoniker": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Logica.cs",
+              "RelativeDocumentMoniker": "Pre-Parcial 4-7-2024\\Logica.cs",
+              "ToolTip": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Logica.cs",
+              "RelativeToolTip": "Pre-Parcial 4-7-2024\\Logica.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:34:05.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Pre-Parcial 4-7-2024\\Program.cs",
+              "ToolTip": "A:\\Escritorio\\Ucse -Materias-\\Programacion 1\\Practicas Final\\Pre-Parcial 4-7-2024\\Pre-Parcial 4-7-2024\\Program.cs",
+              "RelativeToolTip": "Pre-Parcial 4-7-2024\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:48:33.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
