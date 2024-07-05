@@ -1,0 +1,40 @@
+Recuperatorio Programación I - 2021
+Una mutual necesita gestionar sus clientes y las cuentas de los mismos en un sistema seguro y eficiente.
+
+De los clientes se conoce: Dni, Nombre, Dirección, Codigo postal, Fecha de nacimiento, Nro de cuenta asociada en la mutual y una contraseña numérica de 6 dígitos. 
+Cuando se da de alta un cliente, esta contraseña debe ser auto generada de manera aleatoria.
+De las cuentas se conoce, el número de cuenta (id autogenerado), fecha de creación, saldo y eventos. 
+De los eventos se conoce una fecha de evento, tipo de evento (enumerador con valores “Deposito”, “Prestamo personal” y “Retiro”) y monto.
+
+Se necesita:
+  - Dar de alta un nuevo cliente teniendo en cuenta que
+  - Se debe crear una cuenta nueva para este cliente y ese ID generado para la cuenta debe ser asignado en el cliente para asociar la cuenta a él.
+  - Todas las cuentas se crean con saldo 0 y sin eventos.
+  - Se necesita una forma de poder generar movimientos de depósito y retiro, para ello se debe recibir dni del cliente, contraseña del cliente, monto y un tipo de evento,
+teniendo en cuenta que:
+  - Si el dni se corresponde con la contraseña ingresada, incrementar o decrementar el saldo de la cuenta según corresponda e ingresar el evento 
+    correspondiente a la cuenta. Finalmente devolver un booleano y un mensaje
+    que indique que la operación fue exitosa.
+  - Si la contraseña es incorrecta para el dni se debe devolver un booleano y un
+    mensaje que indique que ocurrió un error en el guardado del evento.
+  - Se necesita un método para poder ingresar un préstamo personal de un cliente
+    teniendo en cuenta que:
+  - Se debe recibir un dni y una contraseña, si la contraseña es correcta dar de
+    alta el préstamo como un movimiento más y devolver un booleano y un
+    mensaje indicando el éxito de la operación.
+  - Si la contraseña no es correcta, se debe devolver un booleano y un mensaje
+    indicando que no se puede acceder al préstamo.
+  - Para calcular el monto del prestamo debemos tomar como base un monto de
+    $50000, multiplicando por la cantidad de años transcurridos desde la
+    creación de la cuenta, por ej:
+  - Si tenemos un cliente que tiene la cuenta hace 5 años, el monto total del préstamo será $250000
+
+Notas:
+  - Los datos se ingresan correctamente
+  - Para la entrega se debe
+  - Enviar por email solo los archivos “.cs” en un zip con el apellido del alumno
+    (Ejemplo: RECUPERATORIO-PROG1-2021-Apellido.zip) a los correos.
+
+
+- gonzaperez2312@gmail.com
+- maximilianolovera@gmail.com
